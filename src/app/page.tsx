@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+// hello
 
 // To access the session on the server side, we make the component to be async
 // To get the session we use await getServerSession(config),
